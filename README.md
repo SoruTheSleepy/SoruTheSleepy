@@ -10,7 +10,7 @@ I'm currently working on a Python script in order to make a mass file renaming p
 
 
 
-###My Soft Skills
+##My Soft Skills
 
 • **Patience** : When it comes to develop something, explain something, or search for informations, I like to take the time to check that everything went right or everything is correct.
 • **Meticulousness** : I like to keep everything at its place, clean my PC regularly and own copies of all my files on external SSD hard drives.
@@ -22,16 +22,12 @@ I'm currently working on a Python script in order to make a mass file renaming p
 
 
 
-###My professionnal skills (W.I.P.)
-
-
-Back-End development :
+##My professionnal skills (W.I.P.)\n
+\n
 ♦ - ◼◼◻◻◻◻◻◻◻◻ : Understanding databases concept
 ♠ - ◼◼◼◼◻◻◻◻◻◻ : Understanding back-end programming logic
 ♥ - ◼◼◼◻◻◻◻◻◻◻ : Understanding files storage concept
 ♣ - ◼◻◻◻◻◻◻◻◻◻ : Security and personal data protection methods
-
-Front-End development :
 ♦ - ◼◼◼◼◼◼◼◼◼◼ : Building up a website mockup
 ♠ - ◼◼◼◼◼◼◼◼◼◼ : Understanding Front-End programming logic
 ♥ - ◼◼◼◼◼◼◼◼◼◼ : Files organization
