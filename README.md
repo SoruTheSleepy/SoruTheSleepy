@@ -12,16 +12,16 @@ I'm currently working on a Python script in order to make a mass file renaming p
 
 ##My Soft Skills
 
-• **Patience** : When it comes to develop something, explain something, or search for informations, I like to take the time to check that everything went right or everything is correct.
-• **Meticulousness** : I like to keep everything at its place, clean my PC regularly and own copies of all my files on external SSD hard drives.
-• **Perseverance** : I never give up a project, unless I find a better solution to get to build it up.
-
-
-
+- **Patience** : When it comes to develop something, explain something, or search for informations, I like to take the time to check that everything went right or everything is correct.
+- **Meticulousness** : I like to keep everything at its place, clean my PC regularly and own copies of all my files on external SSD hard drives.
+- **Perseverance** : I never give up a project, unless I find a better solution to get to build it up.
+\n
+\n
+\n
 • ' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' •' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' •
-
-
-
+\n
+\n
+\n
 ##My professionnal skills (W.I.P.)\n
 \n
 ♦ - ◼◼◻◻◻◻◻◻◻◻ : Understanding databases concept
