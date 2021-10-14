@@ -1,8 +1,8 @@
 # Welcome to my GitHub profile! ✨
 <br>
 
-I go by **NaorimSenchai**, I have **22** years of existence on this humble Earth and live in **Brittany, France**.
-I got my **Front-End Developer diploma** in July 2021 and am currently a **Back-End development student** since September 16th. ^^
+I go by **NaorimSenchai**, I have **22** years of existence on this humble Earth and live in **Brittany, France**.<br>
+I got my **Front-End Developer diploma** in July 2021 and am currently a **Back-End development student** since September 16th. ^^<br><br>
 
 I'm currently working on a Python script in order to make a mass file renaming program.<br><br><br>
 
@@ -15,7 +15,7 @@ I'm currently working on a Python script in order to make a mass file renaming p
 ## My Soft Skills
 
 - **Patience** : When it comes to develop something, explain something, or search for informations, I like to take the time to check that everything went right or everything is correct.
-- **Meticulousness** : I like to keep everything at its place, clean my PC regularly and own copies of all my files on external SSD hard drives.
+- **Meticulousness** : As long as I have enough time to do it, I like to make sure every little details are not neglected. Also, I always keep everything at its place, clean my PC regularly and own copies of all my files on external SSD hard drives.
 - **Perseverance** : I never give up a project, unless I find a better solution to get to its end.<br><br><br>
 
 
@@ -24,7 +24,7 @@ I'm currently working on a Python script in order to make a mass file renaming p
 
 
 
-## My professionnal skills (W.I.P.)<br>
+## My Professionnal Skills
 
 - ◼◼◻◻◻◻◻◻◻◻ : Understanding databases concept
 - ◼◼◼◼◻◻◻◻◻◻ : Understanding back-end programming logic
@@ -56,6 +56,7 @@ I'm currently working on a Python script in order to make a mass file renaming p
 | Software | Usage |
 | ----------- | ----------- |
 | Audacity | Audio edition |
+| Bitwarden | 3D Modeling |
 | Blender | 3D Modeling |
 | Element | Workmates chat |
 | Figma | Mockup making |
