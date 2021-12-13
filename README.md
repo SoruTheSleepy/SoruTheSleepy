@@ -30,7 +30,6 @@ I'm currently working on learning back-end oriented JavaScript, working with JSO
 - ★★★★☆☆☆☆☆☆ : Develop data access components
 - ★★☆☆☆☆☆☆☆☆ : Develop the back-end part of a web or mobile web application
 - ★☆☆☆☆☆☆☆☆☆ : Develop and implement components in a CMS or e-commerce application
-<br>
 - ★★★★★★★★★★ : Layout an application
 - ★★★★★★★★★★ : Create a static and adaptable web user interface
 - ★★★★★★★★★★ : Develop a dynamic web user interface
