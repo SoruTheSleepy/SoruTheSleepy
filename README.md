@@ -4,7 +4,7 @@
 I go by **NaorimSenchai**, I have **22** years of existence on this humble Earth and live in **Brittany, France**.<br>
 I got my **Front-End Developer diploma** in July 2021 and am currently a **Back-End development student** since September 16th. ^^<br><br>
 
-I'm currently working on Node with JSON files for the moment.<br><br><br>
+I'm currently working with NodeJS, Express and PostgreSQL.<br><br><br>
 
 
 
