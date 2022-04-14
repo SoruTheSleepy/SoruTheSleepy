@@ -45,22 +45,25 @@
   <h2>My hobbies</h2>
   <table>
     <tr>
-      <img alt="Programming" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/main/programming.svg?token=GHSAT0AAAAAABTR4LHQ3HCPFOCHGLXXGW7IYSYCXDA">
+      <img alt="Programming" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/main/programming.svg">
       <p>Programming</p>
     </tr>
     <tr>
-      <img alt="Drawing" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/main/drawing.svg?token=GHSAT0AAAAAABTR4LHQRUYWX4MIAVTASFTIYSYCXCQ">
+      <img alt="Drawing" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/main/drawing.svg">
       <p>Drawing</p>
     </tr>
     <tr>
-      <img alt="Composing" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/e166e255f5cd81047c118e24c4e8f7fe0f207182/composing.svg?token=ANQ2CTZ2GLUC6CJ2DST6V4LCLAKZO">
+      <img alt="Composing" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/e166e255f5cd81047c118e24c4e8f7fe0f207182/composing.svg">
       <p>Composing</p>
     </tr>
     <tr>
-      <img alt="Gaming" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/main/gaming.svg?token=GHSAT0AAAAAABTR4LHR7WELASXMDIBX2T24YSYCXBQ">
+      <img alt="Gaming" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/main/gaming.svg">
       <p>Gaming</p>
     </tr>
   </table>
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naorimsenchai&layout=compact)](https://github.com/naorimsenchai/github-readme-stats)
-![NaorimSenchai's GitHub stats](https://github-readme-stats.vercel.app/api?username=naorimsenchai&show_icons=true&theme=dark)
+<p>• ' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' •' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' • . • ' . • ' • . • ' •</p>
+<div>
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naorimsenchai&layout=compact">
+  <img alt="NaorimSenchai's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=naorimsenchai&show_icons=true&theme=dark">
+</div>
