@@ -59,6 +59,6 @@
 <div>
   <h2>My hobbies</h2>
   <div>
-    <img alt="Pen" src="https://www.pikpng.com/pngl/b/182-1827417_transparent-stock-png-free-download-onlinewebfonts-pen-icon.png">
+    <img alt="Pen" style="width: 64px; height: 64px; object-fit: contain;" src="https://www.pikpng.com/pngl/b/182-1827417_transparent-stock-png-free-download-onlinewebfonts-pen-icon.png">
   </div>
 </div>
