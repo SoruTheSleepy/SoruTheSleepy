@@ -58,7 +58,7 @@
 <p>• ' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' •' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' • . • ' . • ' • . • ' •</p>
 <div>
   <h2>My hobbies</h2>
-  <div style="display: flex;">
+  <div style="display: flex; flex-flow: row wrap; justify-content: center;">
     <div>
       <img alt="Programming" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/main/programming.svg?token=GHSAT0AAAAAABTR4LHQ3HCPFOCHGLXXGW7IYSYCXDA">
       <p>Programming</p>
