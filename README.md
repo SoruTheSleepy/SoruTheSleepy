@@ -32,9 +32,7 @@
     <img alt="Strapi" src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white">
   </div>
 </div>
-<hr>
 <p>• ' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' •' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' • . • ' . • ' • . • ' •</p>
-<hr>
 <div>
   <h2>What I work with</h2>
   <div>
@@ -55,5 +53,12 @@
     <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
     <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
     <img alt="Strapi" src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white">
+  </div>
+</div>
+<p>• ' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' •' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' • . • ' . • ' • . • ' •</p>
+<div>
+  <h2>My hobbies</h2>
+  <div>
+    <img alt="Pen" src="https://www.pikpng.com/pngl/b/182-1827417_transparent-stock-png-free-download-onlinewebfonts-pen-icon.png">
   </div>
 </div>
