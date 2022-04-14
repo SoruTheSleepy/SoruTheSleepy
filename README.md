@@ -1,63 +1,29 @@
-# Welcome to my GitHub profile! ✨
-<br>
-
-I go by **NaorimSenchai**, I have **22** years of existence on this humble Earth and live in **Brittany, France**.<br>
-I got my **Front-End Developer diploma** in July 2021 and am currently a **Back-End development student** since September 16th. ^^<br><br>
-
-I'm currently working with NodeJS, Express and PostgreSQL.<br><br><br>
-
-
-
-• ' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' •' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' • . • ' . • ' • . • ' •<br><br><br>
-
-
-
-## My Soft Skills
-
-- **Patience** : When it comes to develop something, explain something, or search for informations, I like to take the time to check that everything went right or everything is correct.
-- **Meticulousness** : As long as I have enough time to do it, I like to make sure every little details are not neglected. Also, I always keep everything at its place, clean my PC regularly and own copies of all my files on external SSD hard drives.
-- **Perseverance** : I never give up a project, unless I find a better solution to get to its end.<br><br><br>
-
-
-
-• ' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' •' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' • . • ' . • ' • . • ' •<br><br><br>
-
-<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-- CSS
-- JavaScript (Front & Back)
-- Python
-- PHP
-- C
-- LUA
-- Ruby
-<br><br><br>
-
-
-### Softwares and tools used
-| Software | Usage |
-| ----------- | ----------- |
-| Audacity | Audio edition |
-| Bitwarden | Secure password storing |
-| Blender | 3D Modeling |
-| Element | Workmates chat |
-| Figma | Mockup making |
-| FL Studio 20 | Music making / Audio edition |
-| Git | Linking a local repository to GitHub/GitLab |
-| GitHub | Personal projects / Team projects online storage |
-| GitLab | Personal projects / Team projects online storage |
-| Inkscape | Vector graphics edition |
-| Inkscape | Vector graphics edition |
-| MEGA | Soring files online / Sharing files |
-| Notion | Taking notes |
-| OBS Studio | Screen recording |
-| Paint.NET | Pixel art drawing / Image edition |
-| Pencil | Wireframe making |
-| Unity | 2D game making |
-| Visual Studio Code | Code edition |
-| WampServer | PHP coding / Wordpress installing facilitator |
-| Wondershare Filmora X | Video edition |
-| ----------- | ----------- |
-<br><br><br>
-
-
-• ' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' •' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' • . • ' . • ' • . • ' •
+<h1>Welcome to my GitHub profile!</h1>
+<p>I go by <strong>NaorimSenchai</strong>. I have <b>22</b> years of existence on this humble Earth and live in <b>Brittany, France</b>.</p>
+<p>I got my <b>Front-End Developer diploma</b> in July 2021 and am currently a <b>Back-End development student</b> since September 16th. ^^</p>
+<p>I'm currently working with NodeJS, Express and PostgreSQL.</p>
+<p>• ' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' •' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' • . • ' . • ' • . • ' •</p>
+<h2>My Soft Skills</h2>
+<ul>
+  <li>Patience</li>
+  <li>Meticulousness</li>
+  <li>Perseverance</li>
+</ul>
+<p>• ' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' •' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' • . • ' . • ' • . • ' •</p>
+<div>
+  <h2>Front</h2>
+  <div>
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  </div>
+  <h2>Back</h2>
+  <div>
+    <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+    <img alt="Node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+    <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+    <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+    <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  </div>
+</div>
+<p>• ' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' •' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' • . • ' . • ' • . • ' •</p>
