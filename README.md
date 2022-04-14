@@ -22,23 +22,7 @@ I'm currently working with NodeJS, Express and PostgreSQL.<br><br><br>
 
 • ' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' •' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' • . • ' . • ' • . • ' •<br><br><br>
 
-
-
-## My Professionnal Skills
-
-- ★★☆☆☆☆☆☆☆☆ : Create a database
-- ★★★★☆☆☆☆☆☆ : Develop data access components
-- ★★☆☆☆☆☆☆☆☆ : Develop the back-end part of a web or mobile web application
-- ★☆☆☆☆☆☆☆☆☆ : Develop and implement components in a CMS or e-commerce application
-- ★★★★★★★★★★ : Layout an application
-- ★★★★★★★★★★ : Create a static and adaptable web user interface
-- ★★★★★★★★★★ : Develop a dynamic web user interface
-- ★★★★★★★★★☆ : Create a user interface with a CMS or e-commerce solution
-<br><br><br>
-
-
-### Languages practiced
-- HTML
+<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 - CSS
 - JavaScript (Front & Back)
 - Python
