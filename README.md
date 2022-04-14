@@ -43,24 +43,24 @@
 <p>• ' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' •' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' • . • ' . • ' • . • ' •</p>
 <div>
   <h2>My hobbies</h2>
-  <div style="display: flex; flex-flow: row wrap; justify-content: center;">
-    <div>
+  <table>
+    <tr>
       <img alt="Programming" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/main/programming.svg?token=GHSAT0AAAAAABTR4LHQ3HCPFOCHGLXXGW7IYSYCXDA">
       <p>Programming</p>
-    </div>
-    <div>
+    </tr>
+    <tr>
       <img alt="Drawing" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/main/drawing.svg?token=GHSAT0AAAAAABTR4LHQRUYWX4MIAVTASFTIYSYCXCQ">
       <p>Drawing</p>
-    </div>
-    <div>
+    </tr>
+    <tr>
       <img alt="Composing" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/e166e255f5cd81047c118e24c4e8f7fe0f207182/composing.svg?token=ANQ2CTZ2GLUC6CJ2DST6V4LCLAKZO">
       <p>Composing</p>
-    </div>
-    <div>
+    </tr>
+    <tr>
       <img alt="Gaming" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/main/gaming.svg?token=GHSAT0AAAAAABTR4LHR7WELASXMDIBX2T24YSYCXBQ">
       <p>Gaming</p>
-    </div>
-  </div>
+    </tr>
+  </table>
 </div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naorimsenchai&layout=compact)](https://github.com/naorimsenchai/github-readme-stats)
 ![NaorimSenchai's GitHub stats](https://github-readme-stats.vercel.app/api?username=naorimsenchai&show_icons=true&theme=dark)
