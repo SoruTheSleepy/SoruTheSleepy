@@ -59,6 +59,21 @@
 <div>
   <h2>My hobbies</h2>
   <div>
-    <img alt="Pen" style="width: 64px; height: 64px; object-fit: contain;" src="https://www.pikpng.com/pngl/b/182-1827417_transparent-stock-png-free-download-onlinewebfonts-pen-icon.png">
+    <div>
+      <img alt="Programming" style="width: 64px; height: 64px; object-fit: contain;" src="https://github.com/NaorimSenchai/NaorimSenchai/edit/main/programming.svg">
+      <p>Programming</p>
+    </div>
+    <div>
+      <img alt="Drawing" style="width: 64px; height: 64px; object-fit: contain;" src="https://github.com/NaorimSenchai/NaorimSenchai/edit/main/drawing.svg">
+      <p>Drawing</p>
+    </div>
+    <div>
+      <img alt="Composing" style="width: 64px; height: 64px; object-fit: contain;" src="https://github.com/NaorimSenchai/NaorimSenchai/edit/main/composing.svg">
+      <p>Composing</p>
+    </div>
+    <div>
+      <img alt="Gaming" style="width: 64px; height: 64px; object-fit: contain;" src="https://github.com/NaorimSenchai/NaorimSenchai/edit/main/gaming.svg">
+      <p>Gaming</p>
+    </div>
   </div>
 </div>
