@@ -76,7 +76,7 @@
 <br>
 <div>
   <h2>My stats</h2>
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naorimsenchai&layout=compact&text_color=fefefe&theme=dark&hide_border=true&bg_color=135,B626FF,FF2684">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naorimsenchai&layout=compact&text_color=fefefe&theme=dark&hide_border=true&bg_color=-45,B626FF,FF2684">
   <img alt="NaorimSenchai's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=naorimsenchai&show_icons=true&text_color=fefefe&theme=dark&hide_border=true&bg_color=45,26FFFF,268BFF">
 </div>
 <br>
