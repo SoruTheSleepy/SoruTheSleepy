@@ -75,6 +75,16 @@
 <p>• ' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' •' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' • . • ' . • ' • . • ' •</p>
 <br>
 <div>
+  <h2>My stats</h2>
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naorimsenchai&layout=compact&theme=dark">
   <img alt="NaorimSenchai's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=naorimsenchai&show_icons=true&theme=dark">
+</div>
+<br>
+<p>• ' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' •' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' • . • ' . • ' • . • ' •</p>
+<br>
+<div>
+  <h2>My contact infos</h2>
+  <a href="https://www.linkedin.com/in/romain-chenais/">Lindedin</a>
+  <a href="https://github.com/NaorimSenchai">GitHub</a>
+  <a href="https://gitlab.com/naorimsenchai">GitLab</a>
 </div>
