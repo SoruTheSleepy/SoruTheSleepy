@@ -2,9 +2,9 @@
 <p>I go by <strong>NaorimSenchai</strong>. I have <b>22</b> years of existence on this humble Earth and live in <b>Brittany, France</b>.</p>
 <p>I got my <b>Front-End Developer diploma</b> in July 2021 and am currently a <b>Back-End development student</b> since September 16th. ^^</p>
 <p>I'm currently working with NodeJS, Express and PostgreSQL.</p>
-<br><br><br>
+<br>
 <p>• ' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' •' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' • . • ' . • ' • . • ' •</p>
-<br><br><br>
+<br>
 <h2>My Soft Skills</h2>
 <ul>
   <li>Patience</li>
@@ -12,9 +12,9 @@
   <li>Perseverance</li>
   <li>Organization</li>
 </ul>
-<br><br><br>
+<br>
 <p>• ' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' •' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' • . • ' . • ' • . • ' •</p>
-<br><br><br>
+<br>
 <div>
   <h2>Tech & Tools I use</h2>
   <div>
@@ -37,9 +37,9 @@
     <img alt="Strapi" src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white">
   </div>
 </div>
-<br><br><br>
+<br>
 <p>• ' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' •' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' • . • ' . • ' • . • ' •</p>
-<br><br><br>
+<br>
 <div>
   <h2>What I work with</h2>
   <div>
@@ -47,9 +47,9 @@
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   </div>
 </div>
-<br><br><br>
+<br>
 <p>• ' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' •' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' • . • ' . • ' • . • ' •</p>
-<br><br><br>
+<br>
 <div>
   <h2>My hobbies</h2>
   <table>
@@ -71,9 +71,9 @@
     </tr>
   </table>
 </div>
-<br><br><br>
+<br>
 <p>• ' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' •' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' • . • ' . • ' • . • ' •</p>
-<br><br><br>
+<br>
 <div>
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naorimsenchai&layout=compact&theme=dark">
   <img alt="NaorimSenchai's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=naorimsenchai&show_icons=true&theme=dark">
