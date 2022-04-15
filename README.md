@@ -87,11 +87,11 @@
   <h2>My contact infos</h2>
   <p>
     •
-    <a href="https://www.linkedin.com/in/romain-chenais/">&lt;Lindedin&gt;</a>
+    <a style="color: rebeccapurple;" href="https://www.linkedin.com/in/romain-chenais/">&lt;Lindedin&gt;</a>
     •
-    <a href="https://github.com/NaorimSenchai">&lt;GitHub&gt;</a>
+    <a style="color: rebeccapurple;" href="https://github.com/NaorimSenchai">&lt;GitHub&gt;</a>
     •
-    <a href="https://gitlab.com/naorimsenchai">&lt;GitLab&gt;</a>
+    <a style="color: rebeccapurple;" href="https://gitlab.com/naorimsenchai">&lt;GitLab&gt;</a>
     •
   </p>
 </div>
