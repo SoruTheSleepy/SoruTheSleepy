@@ -84,7 +84,13 @@
 <br>
 <div>
   <h2>My contact infos</h2>
-  <a href="https://www.linkedin.com/in/romain-chenais/">Lindedin</a>
-  <a href="https://github.com/NaorimSenchai">GitHub</a>
-  <a href="https://gitlab.com/naorimsenchai">GitLab</a>
+  <p>
+    •
+    <a href="https://www.linkedin.com/in/romain-chenais/">Lindedin</a>
+    •
+    <a href="https://github.com/NaorimSenchai">GitHub</a>
+    •
+    <a href="https://gitlab.com/naorimsenchai">GitLab</a>
+    •
+  </p>
 </div>
