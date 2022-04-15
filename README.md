@@ -86,11 +86,11 @@
   <h2>My contact infos</h2>
   <p>
     •
-    <a href="https://www.linkedin.com/in/romain-chenais/">Lindedin</a>
+    &lt;<a href="https://www.linkedin.com/in/romain-chenais/">Lindedin</a>&gt;
     •
-    <a href="https://github.com/NaorimSenchai">GitHub</a>
+    &lt;&lt;<a href="https://github.com/NaorimSenchai">GitHub</a>&gt;
     •
-    <a href="https://gitlab.com/naorimsenchai">GitLab</a>
+    &lt;<a href="https://gitlab.com/naorimsenchai">GitLab</a>&gt;
     •
   </p>
 </div>
