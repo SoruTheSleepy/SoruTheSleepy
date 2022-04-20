@@ -46,7 +46,6 @@
   </div>
 </div>
 <br>
-<p>• ' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' •' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' • . • ' . • ' • . • ' •</p>
 <br>
 <div>
   <h2>. • ' • . • ' My hobbies ' • . • ' • .</h2>
@@ -85,7 +84,6 @@
   <img alt="NaorimSenchai's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=naorimsenchai&show_icons=true&text_color=fefefe&theme=dark&hide_border=true&bg_color=45,26FFFF,268BFF">
 </div>
 <br>
-<p>• ' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' •' • . • ' . • ' • . • ' . • ' • . • ' . • ' • . • ' • . • ' . • ' • . • ' •</p>
 <br>
 <div>
   <h2>. • ' • . • ' My contact infos ' • . • ' • .</h2>
