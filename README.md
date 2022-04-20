@@ -1,4 +1,4 @@
-<h1>. • ' • . • ' Welcome to my GitHub profile ' • . • ' • .</h1>
+<h1>. • ' • . • Welcome to my GitHub profile • . • ' • .</h1>
 <p>I go by <strong>NaorimSenchai</strong>. I have <b>22</b> years of existence on this humble Earth and live in <a href="https://www.google.fr/maps/place/Bretagne/@48.0676074,-5.3211645,7z/data=!3m1!4b1!4m5!3m4!1s0x4811ca61ae7e8eaf:0x10ca5cd36df24b0!8m2!3d48.2020471!4d-2.9326435"><b>Brittany, France</b></a>.</p>
 <p>I got my <b>Front-End Developer diploma</b> in July 2021 and am currently a <b>Back-End development student</b>. ^^</p>
 <p>I'm currently working with NodeJS, Express and PostgreSQL.</p>
@@ -14,7 +14,7 @@
 <br>
 <br>
 <div>
-  <h2>. • ' • . • ' Tech & Tools I use ' • . • ' • .</h2>
+  <h2>. • ' • . • Tech & Tools I use • . • ' • .</h2>
   <div>
     <img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13">
     <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
@@ -38,7 +38,7 @@
 <br>
 <br>
 <div>
-  <h2>. • ' • . • ' What I work with ' • . • ' • .</h2>
+  <h2>. • ' • . • What I work with • . • ' • .</h2>
   <div>
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
@@ -48,7 +48,7 @@
 <br>
 <br>
 <div>
-  <h2>. • ' • . • ' My hobbies ' • . • ' • .</h2>
+  <h2>. • ' • . • My hobbies • . • ' • .</h2>
   <table>
     <thead>
       <tr>
@@ -79,14 +79,14 @@
 <br>
 <br>
 <div>
-  <h2>. • ' • . • ' My stats ' • . • ' • .</h2>
+  <h2>. • ' • . • My stats • . • ' • .</h2>
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naorimsenchai&layout=compact&text_color=fefefe&theme=dark&hide_border=true&bg_color=-45,B626FF,FF2684">
   <img alt="NaorimSenchai's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=naorimsenchai&show_icons=true&text_color=fefefe&theme=dark&hide_border=true&bg_color=45,26FFFF,268BFF">
 </div>
 <br>
 <br>
 <div>
-  <h2>. • ' • . • ' My contact infos ' • . • ' • .</h2>
+  <h2>. • ' • . • My contact infos • . • ' • .</h2>
   <p>
     •
     <a href="https://www.linkedin.com/in/romain-chenais/">&lt;Lindedin&gt;</a>
