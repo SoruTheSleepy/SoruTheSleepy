@@ -4,12 +4,12 @@
 <p>I'm currently working with NodeJS, Express and PostgreSQL.</p>
 <br>
 <br>
-<h2>My Soft Skills</h2>
+<h2>. • ' • . • ' My Soft Skills ' • . • ' • .</h2>
 <ul>
-  <li>Patience</li>
-  <li>Meticulousness</li>
-  <li>Perseverance</li>
-  <li>Organization</li>
+  <li><b>Patience & Perseverance</b>. <i>"The key to everything is patience. You get the chicken by hatching the egg, not by smashing it." - Arnold H. Glasow</i></li>
+  <li><b>Meticulousness</b>. I believe paying attention to the littlest details contributes in bolstering a company's professionalism and reputation.</li>
+  <li><b>Perseverance</b>. <i>"Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish." - John Quincy Adams</i></li>
+  <li><b>Organization</b>. Because an organized project is a first step towards a successful project.</li>
 </ul>
 <br>
 <br>
@@ -51,22 +51,30 @@
 <div>
   <h2>. • ' • . • ' My hobbies ' • . • ' • .</h2>
   <table>
-    <tr>
-      <img alt="Programming" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/main/programming.svg">
-      <p>Programming</p>
-    </tr>
-    <tr>
-      <img alt="Drawing" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/main/drawing.svg">
-      <p>Drawing</p>
-    </tr>
-    <tr>
-      <img alt="Composing" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/e166e255f5cd81047c118e24c4e8f7fe0f207182/composing.svg">
-      <p>Composing</p>
-    </tr>
-    <tr>
-      <img alt="Gaming" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/main/gaming.svg">
-      <p>Gaming</p>
-    </tr>
+    <thead>
+      <tr>
+        <th>
+          <img alt="Programming" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/main/programming.svg">
+        </th>
+        <th>
+          <img alt="Drawing" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/main/drawing.svg">
+        </th>
+        <th>
+          <img alt="Composing" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/e166e255f5cd81047c118e24c4e8f7fe0f207182/composing.svg">
+        </th>
+        <th>
+          <img alt="Gaming" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/main/gaming.svg">
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><p>Programming</p></td>
+        <td><p>Drawing</p></td>
+        <td><p>Composing</p></td>
+        <td><p>Gaming</p></td>
+      </tr>
+    </tbody>
   </table>
 </div>
 <br>
