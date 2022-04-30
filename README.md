@@ -1,7 +1,7 @@
 <h1>. • ' • . • Welcome to my GitHub profile • . • ' • .</h1>
 <p>I go by <strong>NaorimSenchai</strong>. I have <b>22</b> years of existence on this humble Earth and live in <a href="https://www.google.fr/maps/place/Bretagne/@48.0676074,-5.3211645,7z/data=!3m1!4b1!4m5!3m4!1s0x4811ca61ae7e8eaf:0x10ca5cd36df24b0!8m2!3d48.2020471!4d-2.9326435"><b>Brittany, France</b></a>.</p>
 <p>I got my <b>Front-End Developer diploma</b> in July 2021 and am currently a <b>Back-End development student</b>. ^^</p>
-<p>I'm currently working with NodeJS, Express and PostgreSQL.</p>
+<p>I am now working with NodeJS, Express and PostgreSQL.</p>
 <br>
 <br>
 <h2>. • ' • . • My Soft Skills • . • ' • .</h2>
