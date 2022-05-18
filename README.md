@@ -8,7 +8,6 @@
 <ul>
   <li><b>Patience & Perseverance</b>. <i>"The key to everything is patience. You get the chicken by hatching the egg, not by smashing it." - Arnold H. Glasow</i></li>
   <li><b>Meticulousness</b>. I believe paying attention to the littlest details contributes in bolstering a company's professionalism and reputation.</li>
-  <li><b>Perseverance</b>. <i>"Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish." - John Quincy Adams</i></li>
   <li><b>Organization</b>. Because an organized project is a first step towards a successful project.</li>
 </ul>
 <br>
