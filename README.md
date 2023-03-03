@@ -12,7 +12,12 @@
 <br>
 <br>
 <div>
-  <h2>🍁 Tech & Tools I use 🍁</h2>
+  <h2>🍁 Tech and tools I work with 🍁</h2>
+  <div>
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+    <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  </div>
   <div>
     <img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13">
     <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
@@ -38,31 +43,27 @@
 <br>
 <br>
 <div>
-  <h2>🍁 What I work with 🍁</h2>
-  <div>
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-    <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-  </div>
-</div>
-<br>
-<br>
-<div>
   <h2>🍁 My hobbies 🍁</h2>
   <table>
     <thead>
       <tr>
         <th>
-          <img alt="Programming" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/main/programming.svg">
+          <img alt="Programming" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/main/hobbies/programming.svg">
         </th>
         <th>
-          <img alt="Drawing" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/main/drawing.svg">
+          <img alt="Drawing" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/main/hobbies/drawing.svg">
         </th>
         <th>
-          <img alt="Composing" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/e166e255f5cd81047c118e24c4e8f7fe0f207182/composing.svg">
+          <img alt="Composing" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/main/hobbies/composing.svg">
         </th>
         <th>
-          <img alt="Gaming" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/main/gaming.svg">
+          <img alt="Roleplay" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/main/hobbies/roleplay.svg">
+        </th>
+        <th>
+          <img alt="Writing" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/main/hobbies/writing.svg">
+        </th>
+        <th>
+          <img alt="Gaming" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/main/hobbies/gaming.svg">
         </th>
       </tr>
     </thead>
@@ -71,6 +72,8 @@
         <td><p>Programming</p></td>
         <td><p>Drawing</p></td>
         <td><p>Composing</p></td>
+        <td><p>Roleplay</p></td>
+        <td><p>Writing</p></td>
         <td><p>Gaming</p></td>
       </tr>
     </tbody>
@@ -89,11 +92,11 @@
   <h2>🍁 My contact infos 🍁</h2>
   <p>
     •
-    <a href="https://www.linkedin.com/in/romain-chenais/">&lt;Lindedin&gt;</a>
+    <a href="https://www.linkedin.com/in/romain-chenais/">[Lindedin]</a>
     •
-    <a href="https://github.com/NaorimSenchai">&lt;GitHub&gt;</a>
+    <a href="https://github.com/NaorimSenchai">[GitHub]</a>
     •
-    <a href="https://gitlab.com/naorimsenchai">&lt;GitLab&gt;</a>
+    <a href="https://gitlab.com/naorimsenchai">[GitLab]</a>
     •
   </p>
 </div>
