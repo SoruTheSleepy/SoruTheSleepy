@@ -48,22 +48,22 @@
     <thead>
       <tr>
         <th>
-          <img alt="Programming" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/main/hobbies/programming.svg">
+          <img alt="Programming" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/SoruTheSleepy/SoruTheSleepy/main/hobbies/programming.svg">
         </th>
         <th>
-          <img alt="Drawing" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/main/hobbies/drawing.svg">
+          <img alt="Drawing" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/SoruTheSleepy/SoruTheSleepy/main/hobbies/drawing.svg">
         </th>
         <th>
-          <img alt="Composing" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/main/hobbies/composing.svg">
+          <img alt="Composing" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/SoruTheSleepy/SoruTheSleepy/main/hobbies/composing.svg">
         </th>
         <th>
-          <img alt="Roleplay" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/main/hobbies/roleplay.svg">
+          <img alt="Roleplay" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/SoruTheSleepy/SoruTheSleepy/main/hobbies/roleplay.svg">
         </th>
         <th>
-          <img alt="Writing" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/main/hobbies/writing.svg">
+          <img alt="Writing" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/SoruTheSleepy/SoruTheSleepy/main/hobbies/writing.svg">
         </th>
         <th>
-          <img alt="Gaming" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/NaorimSenchai/NaorimSenchai/main/hobbies/gaming.svg">
+          <img alt="Gaming" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/SoruTheSleepy/SoruTheSleepy/main/hobbies/gaming.svg">
         </th>
       </tr>
     </thead>
@@ -83,8 +83,8 @@
 <br>
 <div>
   <h2>🍁 My stats 🍁</h2>
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naorimsenchai&layout=compact&text_color=fefefe&theme=dark&hide_border=true&bg_color=-45,B626FF,FF2684">
-  <img alt="NaorimSenchai's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=naorimsenchai&show_icons=true&text_color=fefefe&theme=dark&hide_border=true&bg_color=45,26FFFF,268BFF">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoruTheSleepy&layout=compact&text_color=fefefe&theme=dark&hide_border=true&bg_color=-45,B626FF,FF2684">
+  <img alt="SoruTheSleepy's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SoruTheSleepy&show_icons=true&text_color=fefefe&theme=dark&hide_border=true&bg_color=45,26FFFF,268BFF">
 </div>
 <br>
 <br>
@@ -94,7 +94,7 @@
     •
     <a href="https://www.linkedin.com/in/romain-chenais/">[Lindedin]</a>
     •
-    <a href="https://github.com/NaorimSenchai">[GitHub]</a>
+    <a href="https://github.com/SoruTheSleepy">[GitHub]</a>
     •
     <a href="https://gitlab.com/naorimsenchai">[GitLab]</a>
     •
