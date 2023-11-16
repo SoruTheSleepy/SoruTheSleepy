@@ -89,14 +89,13 @@
 <br>
 <br>
 <div>
-  <h2>🍁 My contact infos 🍁</h2>
+  <h2>🍁 Other places where you can find me 🍁</h2>
   <p>
-    •
-    <a href="https://www.linkedin.com/in/romain-chenais/">[Lindedin]</a>
-    •
     <a href="https://github.com/SoruTheSleepy">[GitHub]</a>
     •
-    <a href="https://gitlab.com/naorimsenchai">[GitLab]</a>
+    <a href="https://gitlab.com/SoruTheSleepy">[GitLab]</a>
+    •
+    <a href="https://www.youtube/@SoruTheSleepy">[YouTube]</a>
     •
   </p>
 </div>
