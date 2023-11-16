@@ -95,7 +95,7 @@
     •
     <a href="https://gitlab.com/SoruTheSleepy">[GitLab]</a>
     •
-    <a href="https://www.youtube/@SoruTheSleepy">[YouTube]</a>
+    <a href="https://www.youtube.com/@SoruTheSleepy">[YouTube]</a>
     •
   </p>
 </div>
