@@ -91,11 +91,11 @@
 <div>
   <h2>🍁 Other places where you can find me 🍁</h2>
   <p>
-    <a href="https://github.com/SoruTheSleepy">[GitHub]</a>
+    <a href="https://github.com/SoruTheWhistler">[GitHub]</a>
     •
-    <a href="https://gitlab.com/SoruTheSleepy">[GitLab]</a>
+    <a href="https://gitlab.com/SoruTheWhistler">[GitLab]</a>
     •
-    <a href="https://www.youtube.com/@SoruTheSleepy">[YouTube]</a>
+    <a href="https://www.youtube.com/@SoruTheWhistler">[YouTube]</a>
     •
   </p>
 </div>
