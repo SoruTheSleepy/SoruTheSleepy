@@ -48,22 +48,22 @@
     <thead>
       <tr>
         <th>
-          <img alt="Programming" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/SoruTheSleepy/SoruTheSleepy/main/hobbies/programming.svg">
+          <img alt="Programming" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/SoruTheWhistler/SoruTheWhistler/main/hobbies/programming.svg">
         </th>
         <th>
-          <img alt="Drawing" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/SoruTheSleepy/SoruTheSleepy/main/hobbies/drawing.svg">
+          <img alt="Drawing" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/SoruTheWhistler/SoruTheWhistler/main/hobbies/drawing.svg">
         </th>
         <th>
-          <img alt="Composing" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/SoruTheSleepy/SoruTheSleepy/main/hobbies/composing.svg">
+          <img alt="Composing" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/SoruTheWhistler/SoruTheWhistler/main/hobbies/composing.svg">
         </th>
         <th>
-          <img alt="Roleplay" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/SoruTheSleepy/SoruTheSleepy/main/hobbies/roleplay.svg">
+          <img alt="Roleplay" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/SoruTheWhistler/SoruTheWhistler/main/hobbies/roleplay.svg">
         </th>
         <th>
-          <img alt="Writing" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/SoruTheSleepy/SoruTheSleepy/main/hobbies/writing.svg">
+          <img alt="Writing" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/SoruTheWhistler/SoruTheWhistler/main/hobbies/writing.svg">
         </th>
         <th>
-          <img alt="Gaming" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/SoruTheSleepy/SoruTheSleepy/main/hobbies/gaming.svg">
+          <img alt="Gaming" style="width: 64px; height: 64px; object-fit: contain;" src="https://raw.githubusercontent.com/SoruTheWhistler/SoruTheWhistler/main/hobbies/gaming.svg">
         </th>
       </tr>
     </thead>
@@ -83,8 +83,8 @@
 <br>
 <div>
   <h2>🍁 My stats 🍁</h2>
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoruTheSleepy&layout=compact&text_color=fefefe&theme=dark&hide_border=true&bg_color=-45,B626FF,FF2684">
-  <img alt="SoruTheSleepy's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SoruTheSleepy&show_icons=true&text_color=fefefe&theme=dark&hide_border=true&bg_color=45,26FFFF,268BFF">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoruTheWhistler&layout=compact&text_color=fefefe&theme=dark&hide_border=true&bg_color=-45,B626FF,FF2684">
+  <img alt="SoruTheWhistler's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SoruTheWhistler&show_icons=true&text_color=fefefe&theme=dark&hide_border=true&bg_color=45,26FFFF,268BFF">
 </div>
 <br>
 <br>
